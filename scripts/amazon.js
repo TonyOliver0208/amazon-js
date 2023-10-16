@@ -78,7 +78,7 @@ products.forEach( (product) => {
     </button>
   </div>
     `;
-
+as
     
 })
 
