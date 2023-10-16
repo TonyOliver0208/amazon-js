@@ -13,7 +13,7 @@ const products = [{
     rating : {
         stars: 'images/ratings/rating-40.png',
         quantity : 127
-    },
+    },   
     priceCents:2095
 },
 {
